@@ -20,7 +20,7 @@ Script is good if you want to view/modify it.  <br>
 
 _____________________________
 
-<b>Requirement:</b>  <br>
+<b>Requirements:</b>  <br>
 <b>User Privilege:</b> Administrator  <br>
 <b>Keyboard Interface:</b> PS/2  <br>
 <b>OS:</b> Windows 7/8/10/11
