@@ -4,7 +4,7 @@
 Are you frusrated on having fake key press on you Laptop/Notebook? <br>
 If yes, this script will allow you to disable internal keyboard on your device if they are using PS/2 interface. <br>
 
-This is a .bat script which allow you to disable the port number of your keyboard. <br> 
+This is a batch file which allow you to disable the port number of your keyboard. <br> 
 <br>
 <b>For convinience, you will get 3 files: </b> Portable, Installation Setup & Script file. <br>
 
