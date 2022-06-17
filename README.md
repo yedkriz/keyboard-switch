@@ -1,4 +1,4 @@
-# keyboard-toogler
+# Keyboard Toogler
 Internal Keyboard Port Enable/Disable Script
 
 Are you frusrated on having fake key press on you Laptop/Notebook?
