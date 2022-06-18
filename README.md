@@ -1,6 +1,6 @@
 # Keyboard Toogler
 
-<b>Laptop / Notebook Internal Keyboard Enable/Disable Script</b> <br> 
+<b>Laptop / Notebook Internal Keyboard Enable/Disable Script for Windows</b> <br> 
 
 Are you frusrated on having fake key press on you Laptop/Notebook? <br> 
 If yes, this script will allow you to disable the internal keyboard on your device by disabling the port number of your keyboard running on PS/2 interface. <br> 
