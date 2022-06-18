@@ -11,7 +11,7 @@ Instalation Setup wil be usefull, if you are switching with external keyboard. <
 <b>Script</b> <br>
 Script is good if you want to view/modify it. (Remember to run the script as Administrator)<br>
 #
-
+<br>
 <b>Instructions:</b>  <br>
 
 1. Install the application <br>
@@ -20,12 +20,12 @@ Script is good if you want to view/modify it. (Remember to run the script as Adm
 4. Choose 'Restart your device' <br>
 5. Thats it! All Done!
 #
-
+<br>
 <b>Requirements:</b>  <br>
 
 You must be an Administrator to run this script  <br>
 Laptop / Notebook Internal Keyboard Interface must be PS/2  <br>
 OS: Windows 7/8/10/11
 #
-
+<br>
 <a href="https://github.com/yedkriz/keyboard-toogler/releases/latest"><h3>Download</h3></a>
