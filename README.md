@@ -14,9 +14,9 @@ Script is good if you want to view/modify it. (Remember to run the script as Adm
 
 1. Install the application <br>
 2. Run the application as Administrator <br>
-3. Select enable/disable your internal keyboard <br>
-4. Choose Restart you device <br>
-Done!
+3. Select 'enable/disable your internal keyboard' <br>
+4. Choose 'Restart your device' <br>
+5. Thats it! All Done!
 #
 <b>Requirements:</b>  <br>
 
