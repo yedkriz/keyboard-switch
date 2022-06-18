@@ -22,4 +22,5 @@ Done!
 User Privilege: Administrator  <br>
 Internal Keyboard Interface: PS/2  <br>
 OS: Windows 7/8/10/11
-
+#
+<a href="https://github.com/yedkriz/keyboard-toogler/releases/latest"><h3>Download</h3></a>
