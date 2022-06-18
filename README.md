@@ -12,13 +12,6 @@ Script is good if you want to view/modify it. (Remember to run the script as Adm
 
 ___
 
-<b>Requirements:</b>  <br>
-<b>User Privilege:</b> Administrator  <br>
-<b>Internal Keyboard Interface:</b> PS/2  <br>
-<b>OS:</b> Windows 7/8/10/11
-
-___
-
 <B>Instructions:</b>  <br>
 
 1. Install the application <br>
@@ -27,5 +20,10 @@ ___
 4. Choose Restart you device <br>
 Done!
 
+___
 
+<b>Requirements:</b>  <br>
+<b>User Privilege:</b> Administrator  <br>
+<b>Internal Keyboard Interface:</b> PS/2  <br>
+<b>OS:</b> Windows 7/8/10/11
 
