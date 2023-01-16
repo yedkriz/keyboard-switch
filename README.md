@@ -1,4 +1,4 @@
-# Keyboard Toogler
+# Laptop Internal Keyboard On/Off Switch
 
 <b>Laptop / Notebook Internal Keyboard Enable/Disable Script for Windows</b> <br> 
 
